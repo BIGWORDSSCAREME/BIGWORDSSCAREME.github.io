@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Abies fraseri",
+    "info": "Fraser fir\nPart of the Pinaceae family\nUncommon in the wild, but used commonly as a christmas tree. Endangered"
+  },
+  {
+    "name": "Acer leucoderme",
+    "info": "Chalk maple\nPart of the Sapindaceae family\nYellowish-green leaf undersides."
+  },
+  {
+    "name": "Aesculus flava",
+    "info": "Yellow buckeye\nPart of the Sapindaceae family\nGrows in mesophytic forests or floodplains. Native americans soaked the seeds to remove the toxic element and ate them"
+  },
+  {
+    "name": "Betula cordifolia",
+    "info": "Mountain paper birch\nPart of the Betulaceae family\nUntil recently was considered a variety of paper birch"
+  },
+  {
+    "name": "Betula lenta",
+    "info": "Sweet birch\nPart of the Betulaceae family\nMethyl salicylate is produced in the bark"
+  },
+  {
+    "name": "Carya tomentosa",
+    "info": "White hickory\nPart of the Juglandaceae family\nPreviously called Carya alba. Edible fruit. Distinguished from similar trees by its fragrant leaves and twigs, thick-haired leaflets and rachis, and large terminal buds."
+  },
+  {
+    "name": "Carya cordiformis",
+    "info": "Bitternut hickory\nPart of the Juglandaceae family\nHas a bitter fruit. Distinguished from similar trees by its yellow buds, usually 7-11 leaflets in each leaf, and fruits with 4 ridges that don't extend all the way down the fruit."
+  },
+  {
+    "name": "Carya glabra",
+    "info": "Pignut hickory\nPart of the Juglandaceae family\nHas a bitter fruit. Distinguished from similar trees by glabrous leaves and twigs, and pear-shaped fruit."
+  },
+  {
+    "name": "Carya ovalis",
+    "info": "Red hickory\nPart of the Juglandaceae family. Also called the sweet pignut hickory. May be a hybrid of the pignut hickory (Carya glabra) and the shagbark hickory (Carya ovata)."
+  },
+  {
+    "name": "Carya ovata",
+    "info": "Shagbark hickory\nPart of the Juglandaceae family. Has an edible fruit. Distinguished from other similar trees by almost always having 5 leaflets per leaf and shaggy bark."
+  },
+  {
+    "name": "Carya pallida",
+    "info": "Sand hickory\nPart of the Juglandaceae family"
+  },
+  {
+    "name": "Castanea dentata",
+    "info": "American chestnut\nPart of the Fagaceae family"
+  },
+  {
+    "name": "Celtis laevigata",
+    "info": "Sugar berry\nPart of the Cannibinaceae family\nEdible fruit. Distinguished from other similar trees by the rounded or cuneate (as opposed to cordate) leaf bases and thinner leaves."
+  },
+  {
+    "name": "Celtis occidentalis",
+    "info": "Hackberry\nPart of the Cannibinaceae family\nEdible fruit. Distinguished from other similar trees by cordate leaf bases."
+  },
+  {
+    "name": "Cladrastis kentukea",
+    "info": "Yellow-wood\nPart of the Fabaceae family\nGrows on moist soils near streams. Compound leaves with 7-11 leaflets. Has fragrant white flowers and smooth grey bark."
+  },
+  {
+    "name": "Diospyros virginiana",
+    "info": "American Persimmon\nPart of the Ebenaceae family\nThe fruit is edible, and matures in the late fall after a hard freeze. Diecious. Has distinctive bark."
+  },
+  {
+    "name": "Fagus grandifolia",
+    "info": "American beech\nPart of the Fagaceae family"
+  },
+  {
+    "name": "Fraxinus pennsylvanica",
+    "info": "Green Ash\nPart of the Oleaceae family\nAshes have opposite leaves. Distinguished from other similar trees by short winged stalks on the leaflets, and the leaf scars which look like evil smiley faces."
+  },
+  {
+    "name": "Fraxinus profunda",
+    "info": "Pumpkin Ash\nPart of the Oleaceae family\nAshes have opposite leaves. Lives in areas with standing water in the summer, in these areas these trees will develop a swolen (pumpkin-shaped) base. The bark and twigs are similar to that of the green ash, but the twigs are harrier."
+  },
+  {
+    "name": "Gleditsia triacanthos",
+    "info": "Honey Locust\nPart of the Fabaceae family"
+  },
+  {
+    "name": "Halesia tetraptera",
+    "info": "Mountain Silverbell\nPart of the Styracaceae family\nHas showy white flowers and distinctive bark that is striped in young individuals. Can reach 80-100 feet."
+  },
+  {
+    "name": "Juglans cinerea",
+    "info": "Butternut\nPart of the Juglandaceae family\nAlso called the white walnut. Has an edible fruit. Distinguished from the black walnut (Juglans nigra) by its lighter bark, more elongated fruits, and may have a 'moustache' on the leaf scar. Has 9-17 leaflets per leaf. Hickories may have similar leaves, but have larger leaflets towards the end of the leaf."
+  },
+  {
+    "name": "Juglans nigra",
+    "info": "Black Walnut\nPart of the Juglandaceae family\nHas an edible fruit. Distinguished from the butternut (Juglans cinerea) by its darker bark, more round fruits, and lack of a 'moustache' on the leaf scar. Has 15-23 leaflets per leaf. Hickories have similar leaves, but have larger leaflets towards the end of the leaf."
+  },
+  {
+    "name": "Juniperus virginiana",
+    "info": "Eastern Red Cedar\nPart of the Cupressaceae family\n"
+  },
+  {
+    "name": "Liquidambar styraciflua",
+    "info": "American sweetgum\nPart of the Altingiaceae family\n"
+  },
+  {
+    "name": "Liriodendron tulipifera",
+    "info": "Tulip tree\nPart of the Magnoliaceae family\n"
+  },
+  {
+    "name": "Magnolia acuminata",
+    "info": "Cucumber-tree\nPart of the Magnoliaceae family\n"
+  },
+  {
+    "name": "Magnolia fraseri",
+    "info": "Fraser Magnolia\nPart of the Magnoliaceae family\n"
+  },
+  {
+    "name": "Magnolia macrophylla",
+    "info": "Bigleaf magnolia\nPart of the Magnoliaceae family\n"
+  },
+  {
+    "name": "Magnolia tripetala",
+    "info": "Umbrella Magnolia\nPart of the Magnoliaceae family\n"
+  },
+  {
+    "name": "Nyssa sylvatica",
+    "info": "Black tupelo\nPart of the Cornaceae family\n"
+  },
+  {
+    "name": "Ostrya virginiana",
+    "info": "American hophornbeam\nPart of the Betulaceae family\n"
+  },
+  {
+    "name": "Oxydendrum arboreum",
+    "info": "Sourwood\nPart of the Ericaceae family\n"
+  },
+  {
+    "name": "Picea rubens",
+    "info": "Red spruce\nPart of the Pinaceae family\n"
+  },
+  {
+    "name": "Pinus echinata",
+    "info": "Shortleaf pine\nPart of the Pinaceae family\n2-3 needles per fascicle, and has cinamon covered bark. Small cones."
+  },
+  {
+    "name": "Pinus pungens",
+    "info": "Table mountain pine\nPart of the Pinaceae family\nDistinguised from other similar trees by the claw-like prickle on cone scales, usually 2 needles per fascicle, and innability to resprout from the trunk."
+  },
+  {
+    "name": "Pinus rigida",
+    "info": "Pitch pine\nPart of the Pinaceae family\nGrows on acidic, nutrient poor, and sandy soils. Distinguished from other similar trees by its small pricke on the cone scales that is shed quickly, and consistently 3 needles per fascicle."
+  },
+  {
+    "name": "Pinus strobus",
+    "info": "Eastern white pine\nPart of the Pinaceae family\n"
+  },
+  {
+    "name": "Pinus taeda",
+    "info": "loblolly pine\nPart of the Pinaceae family\nHas 2-3 needles per fascicle, red-brown bark with no resin pockets. Small prickles on the cone scales."
+  },
+  {
+    "name": "Pinus virginiana",
+    "info": "Virginia Pine\nPart of the Pinaceae family\nOften grows in pure stands. Shorter compared to other pines, grows to 15-40 feet tall. 2 needles per fasicle. Small, thin prickles on the cone scales."
+  },
+  {
+    "name": "Platanus occidentalis",
+    "info": "American sycamore\nPart of the Platanaceae family\n"
+  },
+  {
+    "name": "Populus grandidentata",
+    "info": "Bigtooth Aspen\nPart of the Salicaceae family\n"
+  },
+  {
+    "name": "Prunus pensylvanica",
+    "info": "Fire cherry\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Prunus serotina",
+    "info": "Black Cherry\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Quercus alba",
+    "info": "White oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus coccinea",
+    "info": "Scarlet Oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus falcata",
+    "info": "southern red oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus imbricaria",
+    "info": "Shingle Oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus marilandica",
+    "info": "Blackjack Oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus montana",
+    "info": "Chestnut Oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus muhlenbergii",
+    "info": "Chinkapin oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus phellos",
+    "info": "Willow oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus rubra",
+    "info": "Northern red oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus stellata",
+    "info": "Post Oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Quercus velutina",
+    "info": "Black Oak\nPart of the Fagaceae family\n"
+  },
+  {
+    "name": "Robinia pseudoacacia",
+    "info": "Black locust\nPart of the Fabaceae family\n"
+  },
+  {
+    "name": "Salix caroliniana",
+    "info": "Carolina willow\nPart of the Salicaceae family\n"
+  },
+  {
+    "name": "Salix nigra",
+    "info": "Black willow\nPart of the Salicaceae family\n"
+  },
+  {
+    "name": "Sassafras albidum",
+    "info": "Sassafras\nPart of the Lauraceae family\n"
+  },
+  {
+    "name": "Tsuga canadensis",
+    "info": "Eastern hemlock\nPart of the Pinaceae family\n"
+  },
+  {
+    "name": "Ulmus alata",
+    "info": "Winged Elm\nPart of the Ulmaceae family\n"
+  },
+  {
+    "name": "Ulmus americana",
+    "info": "American Elm\nPart of the Ulmaceae family\n"
+  },
+  {
+    "name": "Ulmus rubra",
+    "info": "Slippery Elm\nPart of the Ulmaceae family\n"
+  },
+  {
+    "name": "Acer pensylvanicum",
+    "info": "Striped Maple\nPart of the Sapindaceae family\n"
+  },
+  {
+    "name": "Acer spicatum",
+    "info": "Mountain Maple\nPart of the Sapindaceae family\n"
+  },
+  {
+    "name": "Alnus serrulata",
+    "info": "Smooth Alder\nPart of the Betulaceae family\n"
+  },
+  {
+    "name": "Amelanchier arborea",
+    "info": "Common serviceberry\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Amelanchier laevis",
+    "info": "Smooth Shadbush\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Amelanchier sanguinea",
+    "info": "Roundleaf Shadbush\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Aralia spinosa",
+    "info": "Devil's Walkingstick\nPart of the Araliaceae family\n"
+  },
+  {
+    "name": "Asimina triloba",
+    "info": "Common Pawpaw\nPart of the Annonaceae family\n"
+  },
+  {
+    "name": "Celtis tenuifolia",
+    "info": "Dwarf Hackberry\nPart of the Cannabaceae family\n"
+  },
+  {
+    "name": "Cercis canadensis",
+    "info": "Eastern Redbud\nPart of the Fabaceae family\n"
+  },
+  {
+    "name": "Cornus florida",
+    "info": "Flowering dogwood\nPart of the Cornaceae family\n"
+  },
+  {
+    "name": "Crataegus calpodendron",
+    "info": "Pear Hawthorn\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Crataegus crus-galli",
+    "info": "Cockspur Hawthorn\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Crataegus intricata",
+    "info": "Copenhagen Hawthorn\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Crataegus macrosperma",
+    "info": "Big-fruit Hawthorn\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Crataegus pruinosa",
+    "info": "Waxy-fruit Hawthorn\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Crataegus punctata",
+    "info": "dotted hawthorn\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Hamamelis virginiana",
+    "info": "Witchhazel\nPart of the Hamamelidaceae family\n"
+  },
+  {
+    "name": "Ilex opaca",
+    "info": "American holly\nPart of the Aquifoliaceae family\n"
+  }, 
+  {
+    "name": "Malus angustifolia",
+    "info": "Southern Crab Apple\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Malus coronaria",
+    "info": "Sweet Crabapple\nPart of the Rosaceae family\n"
+  },
+  {
+    "name": "Morus rubra",
+    "info": "Red Mulberry\nPart of the Moraceae family\n"
+  },
+  {
+    "name": "Prunus americana",
+    "info": "American Plum\nPart of the Rosaceae family\n"
+  },
+  
+  {
+    "name": "Prunus angustifolia",
+    "info": "Chickasaw Plum\nPart of the Rosaceae family\n"
+  }
+]

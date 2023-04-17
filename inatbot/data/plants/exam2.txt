@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Quercus macrocarpa",
+    "info": "Bur oak\nPart of the Fagaceae (beech) family. This species lives in xeric oak woodlands and oak savannas. Part of the white oaks."
+  },
+  {
+    "name": "Betula papyrifera",
+    "info": "Paper birch\nPart of the Betulaceae (birch) family. Has white, peeling bark."
+  },
+  {
+    "name": "Ostraya virginiana",
+    "info": "Eastern hophornbeam\nPart of the Betulaceae (birch) family. The inflorescence on this species looks like the inflorsence of hops (humulus)."
+  },
+  {
+    "name": "Carya ovata",
+    "info": "Shagbark hickory\nPart of the Juglandaceae (walnut) family. Has shaggy bark and an edible nut."
+  },
+  {
+    "name": "Carya cordiformis",
+    "info": "Yellowbud hickory\nPart of the Juglandaceae (walnut) family. Also called bitternut hickory."
+  },
+  {
+    "name": "Lythrum salicaria",
+    "info": "Purple loosestrife\nPart of the Lythraceae (loosestrife) family. From Europe and invasive in wetlands."
+  },
+  {
+    "name": "Oenothera biennis",
+    "info": "Evening primrose\nPart of the Onagraceae (evening primrose) family. This family often has 4 merous flowers, is epigynous, and has a well-developed hypanthium."
+  },
+  {
+    "name": "Epilobium stricta",
+    "info": "Willowherb\nPart of the Onagraceae (evening primrose) family."
+  },
+  {
+    "name": "Geranium maculatum",
+    "info": "Wild geranium\nPart of the Geraniaceae (geranium) family. The fruit is a schizocarp, a dehiscing fruit where each carpel breaks apart seperately. This family is often scented."
+  },
+  {
+    "name": "Oxalis corniculata",
+    "info": "Creeping yellow wood sorrel\nPart of the Oxalidaceae (wood-sorrel) family. This species is introduced in Wisconsin. Leaves of this family are often acidic due to oxalic acid (calcium oxalate)."
+  },
+  {
+    "name": "Staphylea trifolia",
+    "info": "Bladdernut\nPart of the Staphylaceae (bladdernut) family. Small tree with striped bark, opposite pinnately-compound leaves, and inflated bladder-like fruit."
+  },
+  {
+    "name": "Hesperis matronalis",
+    "info": "Dame's rocket\nPart of the Brassicaceae (mustard) family."
+  },
+  {
+    "name": "Alliaria petiolata",
+    "info": "Garlic mustard\nPart of the Brassicaceae (mustard) family. A European invasive and biennial."
+  },
+  {
+    "name": "Cardamine concatenata",
+    "info": "Cut leaf toothwort\nPart of the Brassicaceae (mustard) family."
+  },
+  {
+    "name": "Acer negundo",
+    "info": "Box elder\nPart of the Sapindaceae (maple) family. The only diecious maple (genus Acer), and the only one with compound leaves. Maple fruits are schizocarps and samaras."
+  },
+  {
+    "name": "Acer saccharum",
+    "info": "Sugar maple\nPart of the Sapindaceae (maple) family. Maple fruits are schizocarps and samaras."
+  },
+  {
+    "name": "Zanthoxylum americanum",
+    "info": "Prickly-ash\nPart of the Rutaceae (sitrus) family. Clonal and has spines."
+  },
+  {
+    "name": "Rhus glabra",
+    "info": "Smooth sumac\nPart of the Anacardiaceae (sumac) family. This family is woody and has alternate, compound leaves."
+  },
+  {
+    "name": "Toxicodendron radicans",
+    "info": "Poison ivy\nPart of the Anacardiaceae (sumac) family. This family is woody and has alternate, compound leaves. Has a 'hairy' vine."
+  },
+  {
+    "name": "Malva neglecta",
+    "info": "Mallow\nPart of the Malvaceae (mallow) family. Introduced and naturalized in Wisconsin."
+  },
+  {
+    "name": "Tilia americana",
+    "info": "Basswood\nPart of the Malvaceae (mallow) family. A mesic forest tree species. Has cordate leaves with palmate veination."
+  },
+  {
+    "name": "Vaccinium augustifolium",
+    "info": "Lowbush blueberry\nPart of the Ericaceae (blueberry) family. Has a berry fruit and inferrior ovary."
+  },
+  {
+    "name": "Gaylussacia baccata",
+    "info": "Huckleberry\nPart of the Ericaceae (blueberry) family."
+  },
+  {
+    "name": "Monotropa uniflora",
+    "info": "Ghost pipe\nPart of the Ericaceae (blueberry) family. This species relies only on its mycorhizzal assocations for food. It is mycotrophic."
+  },
+  {
+    "name": "Pyrola rotundifolia",
+    "info": "Round-leaved shinleaf\nPart of the Ericaceae (blueberry) family."
+  },
+  {
+    "name": "Primula meadii",
+    "info": "Shooting star\nPart of the Primulaceae (primrose) family."
+  },
+  {
+    "name": "Sarracenia purpurea",
+    "info": "Pitcher plant\nPart of the insectivorous Sarraceniaceae (pitcher plant) family. The pitfall pitcher trap is a modified leaf that lures insects into digestive enzymes."
+  },
+  {
+    "name": "Polemonium reptans",
+    "info": "Jacob's ladder\nPart of the Polemoniaceae (phlox) family. This family often has 5-merous flowers, and a corolla tube with 5 stamens fused to the inside of the tube often at different heights. Alternate leaves."
+  },
+  {
+    "name": "Phlox divaricata",
+    "info": "Woodland phlox\nPart of the Polemoniaceae (phlox) family. The phlox genus has opposite leaves."
+  },
+  {
+    "name": "Impatiens capensis",
+    "info": "Orange jewelweed\nPart of the Balsaminaceae (jewelweed) family. Ripe fruit explodes on touch."
+  },
+  {
+    "name": "Cornus foemina",
+    "info": "Gray dogwood\nPart of the Cornaceae (dogwood) family. Has opposite leaves and arcuate veination. Shrubs or subshrubs. The fruit is a 1-seeded drupe."
+  },
+  {
+    "name": "Gentian andrewsii",
+    "info": "Bottle gentian\nPart of the Gentiaceae (gentian) family. Opposite leaves."
+  },
+  {
+    "name": "Apocynum androsaemifolium",
+    "info": "Spreading dogbane\nPart of the Apocynaceae (dogbane) family."
+  },
+  {
+    "name": "Asclepias syriaca",
+    "info": "Common milkweed\nPart of the Apocynaceae (dogbane) family. This genus makes pollen sacs which fertilize a bunch of ovules -- the Las Vegas strategy."
+  },
+  {
+    "name": "Galium aparine",
+    "info": "Catchweed bedstraw\nPart of the Rubiaceae (coffee) family. Members of this genus are distinguished by number of whorled leaves and fruit type. Fun to chuck this at people to make it stick to their clothes."
+  },
+  {
+    "name": "Solanum carolinense",
+    "info": "Horse-nettle\nPart of the Solanaceae (nightshade) family. This family makes a lot of nasty compounds, drugs, and food like tomatoes and potatoes."
+  },
+  {
+    "name": "Convulvulus arvensis",
+    "info": "Field bindweed\nPart of the Convolvulaceae (morning-glory) family. Flowers in this family are often funnels."
+  },
+  {
+    "name": "Cuscusta gronovii",
+    "info": "Common dotter\nPart of the Convulvulaceae (morning-glory) family. This genus twines around other plants and is parasitic."
+  },
+  {
+    "name": "Hydrophyllum virginianum",
+    "info": "Common waterleaf\nPart of the Boraginaceae (borage) family. Leaves compound or lobed and 'watermarked'."
+  },
+  {
+    "name": "Lithospermum canescens",
+    "info": "Hoary puccoon\nPart of the Boraginaceae (borage) family. This genus has dimorphic heterostyly."
+  },
+  {
+    "name": "Mertensia virginica",
+    "info": "Eastern bluebells\nPart of the Boraginaceae (borage) family."
+  },
+  {
+    "name": "Fraxinus pennsylvanica",
+    "info": "Gree ash\nPart of the Oleaceae (olive) family. This genus has compound leaves and unisexual flowers, while other members of the family have simple leaves and bisexual flowers."
+  },
+  {
+    "name": "Nepeta cataria",
+    "info": "Catnip\nPart of the Lamiaceae (mint) family. This family has square stems and opposite leaves. The flowers are in verticels (clustered at the nodes)."
+  },
+  {
+    "name": "Monarda fistulosa",
+    "info": "Bee-balm\nPart of the Lamiaceae (mint) family. This family has square stems and opposite leaves. The flowers are in verticels (clustered at the nodes)."
+  },
+  {
+    "name": "Prunella vulgeris",
+    "info": "Self-heal\nPart of the Lamiaceae (mint) family. This family has square stems and opposite leaves. The flowers are in verticels (clustered at the nodes)."
+  },
+  {
+    "name": "Verbena hastata",
+    "info": "Blue vervain\nPart of the Verbenaceae (vervain) family. This family has squarish stems with opposite leaves, and the inflorescences are spike-like."
+  },
+  {
+    "name": "Plantago major",
+    "info": "Common plantain\nPart of the Plantaginaceae (plantain) family. Plantago is a wind pollinated genus inside the animal pollinated family. This genus has basal leaves with strongly arcuate veination."
+  },
+  {
+    "name": "Pedicularis canadensis",
+    "info": "Wood betony\nPart of the Orobanchaceae (broomrape) family."
+  },
+  {
+    "name": "Castilleja coccinea",
+    "info": "Paintbrush\nPart of the Orobanchaceae (broomrape) family. This plant is a hemi-parasite meaning it is attached to other plants, but still gets some energy from photosynthesis."
+  },
+  {
+    "name": "Conopholis americana",
+    "info": "Cancer-root\nPart of the Orobanchaceae (broomrape) family. This plant is a holo-parasite meaning it gets its energy from things other than light and does not photosynthesize. It is usually attached to oaks."
+  },
+  {
+    "name": "Urticularia resupinata",
+    "info": "Northeastern bladderwort\nPart of the Lentibulariaceae (bladderwort) family. This family is insectivorous and rootless and lives in wetlands."
+  },
+  {
+    "name": "Viburnum lentago",
+    "info": "Nannyberry\nPart of the Adoxaceae (viburnum) family. This genus contains shrubs, often with lobed or coarsely-toothed leaves."
+  },
+  {
+    "name": "Sambucus canadensis",
+    "info": "Elderberry\nPart of the Adoxaceae (viburnum) family. Compound leaves, lives in open areas, and berries used for wine."
+  },
+  {
+    "name": "Diervilla lonicera",
+    "info": "Bush honeysuckle\nPart of the Caprifoliaceae (honeysuckle) family. Leaves of this species are perfoliate -- this means they are opposite leaves whose blade tissue connects across the stem. This family has opposite leaves and an inferior ovary."
+  },
+  {
+    "name": "Linnaea borealis",
+    "info": "Twinflower\nPart of the Caprifoliaceae (honeysuckle) family. Subshrubs of circumboreal forests where it forms large colonies. There are two flowers per inflorescence. This family has opposite leaves and an inferior ovary."
+  },
+  {
+    "name": "Lonicera × bella",
+    "info": "Pretty honeysuckle\nPart of the Caprifoliaceae (honeysuckle) family. This species is an invasive hybrid of two Lonicera species. This family has opposite leaves and an inferior ovary."
+  },
+  {
+    "name": "Aralia nudicaulis",
+    "info": "Wild sarsaparilla\nPart of the Araliaceae (ginseng) family. Leaves of this family 3 times or more compound, and flowers are in umbels."
+  },
+  {
+    "name": "Panax quinquefolius",
+    "info": "American ginseng\nPart of the Araliaceae (ginseng) family. This species lives in rich woods. Has stalked leaflets and red berries. Heavily collected for its roots and listed as special concern by the DNR. Leaves of this family 3 times or more compound, and flowers are in umbels."
+  },
+  {
+    "name": "Daucus carota",
+    "info": "Wild carrot\nPart of the Apiaceae (carrot) family. This family has hollow stems, dissected or compound leaves, and umbellate inflorescences."
+  },
+  {
+    "name": "Osmorhiza longistylis",
+    "info": "Sweet cicely\nPart of the Apiaceae (carrot) family. This family has hollow stems, dissected or compound leaves, and umbellate inflorescences."
+  },
+  {
+    "name": "Sanicula marilandica",
+    "info": "Snakeroot\nPart of the Apiaceae (carrot) family. This family has hollow stems, dissected or compound elaves, and umbellate inflorescences."
+  },
+  {
+    "name": "Campanula rapunculoides",
+    "info": "European bellflower\nPart of the Campanulaceae (bellflower) family, and the Campanuloideae subfamily. This subfamily has radially symetric flowers. This family has alternate leaves and milky latex."
+  },
+  {
+    "name": "Lobelia siphilitica",
+    "info": "Great blue lobelia\nPart of the Campanulaceae (bellflower) family, and the Lobelioidaea subfamily. This subfamily has zygomorphic flowers and stamens fused in a tube where the pollen is shed. This family has alternate leaves and milky latex."
+  },
+  {
+    "name": "Achillea millefolium",
+    "info": "Yarrow\nPart of the Asteraceae (aster) family, and the Anthemideae tribe. This tribe consists of aromatic plants with dissected, alternate leaves."
+  },
+  {
+    "name": "Coreopsis palmata",
+    "info": "Prairie tickseed\nPart of the Asteraceae (aster) family, and the Coreopsideae tribe."
+  },
+  {
+    "name": "Symphyotrichum novae-angliae",
+    "info": "New England aster\nPart of the Asteraceae (aster) family, and the Astereae tribe. This tribe has showy ray flowers in a radiate head."
+  },
+  {
+    "name": "Packera paupercula",
+    "info": "Balsam ragwort\nPart of the Asteraceae (aster) family, and the Senecioneae tribe. This tribe has alternate or basal leaves."
+  },
+  {
+    "name": "Hieracium caespitosum",
+    "info": "Hairy hawkweed\nPart of the Asteraceae (aster) family, and the Lactuceae tribe. This tribe has ligulate heads and milky latex in vegetative parts."
+  },
+  {
+    "name": "Antennaria plantaginifolia",
+    "info": "Pussy toes\nPart of the Asteraceae (aster) family, and the Gnaphalieae tribe. This tribe is usually covered with white hairs."
+  },
+  {
+    "name": "Helainthus",
+    "info": "Sunflower\nPart of the Asteraceae (aster) family, and the Heliantheae tribe. This tribe has radiate (or sometimes discoid) heads. The rays are often yellow, and the leaves are often opposite."
+  },
+  {
+    "name": "Solidago",
+    "info": "Goldenrod\nPart of the Asteraceae (aster) family, and the Astereae tribe. This tribe has showy ray flowers in a radiate head."
+  },
+  {
+    "name": "Sagittaria",
+    "info": "Arrowhead\nPart of the Alismataceae (water plantain) family, and a monocot. This family has long-petioled, sagitate (arrow-shaped) leaves, and edible starchy tubers. Monocots can be distinguished from dicots by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Arisaema triphyllum",
+    "info": "Jack-in-the-pulpit\nPart of the Araceae (Jack-in-the-pulpit) family, and a monocot. Vegetative parts of this family often have raphides with calcium oxalate. The inflorescence is a fleshy spadix, surrounded by a bract called the spathe. Monocots can be distinguished from dicots by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Symplocarpus foetidus",
+    "info": "Skunk cabbage\nPart of the Araceae (Jack-in-the-pulpit) family, and a monocot. Vegetative parts of this family often have raphides with calcium oxalate. The inflorescence is a fleshy spadix, surrounded by a bract called the spathe. Monocots can be distinguished from dicots by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Erythronium albidum",
+    "info": "White trout lily\nPart of the Lilliaceae (lily) family, and a monocot. Monocots can be distinguished from dicots by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Trilium grandiflorum",
+    "info": "Large-flowered trilium\nPart of the Melanthiaceae (trillium) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Uvularia",
+    "info": "Bellwort\nPart of the Colchicaceae (bellwort) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Maianthemum canadense",
+    "info": "Lily of the valley\nPart of the Asparagaceae (asparagus) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Smilax",
+    "info": "Catbriar\nPart of the Smilacaceae (catbriar) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Iris",
+    "info": "Iris\nPart of the Iridaceae (iris) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Sisyrinchium",
+    "info": "Blue-eyed grass\nPart of the Iridaceae (iris) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Goodyera",
+    "info": "Rattlesnake plantain\nPart of the Orchidaceae (orchid) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Dioscorea villosa",
+    "info": "Wild yam\nPart of the Dioscoreaceae (yam) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Tradescantia ohiensis",
+    "info": "Common spiderwort\nPart of the Commelinaceae (spiderwort) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Typha",
+    "info": "Cat-tail\nPart of the Typhaceae (cattail) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Juncus tenuis",
+    "info": "Path rush\nPart of the Juncaceae (rush) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Carex pensylvanica",
+    "info": "Common oak sedge\nPart of the Cyperaceae (sedge) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Schoenoplectus tabernaemontani",
+    "info": "Soft-stem bullrush\nPart of the Cyperaceae (sedge) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Dichanthelium",
+    "info": "Panic grass\nPart of the Poaceae (grass) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Dactylis",
+    "info": "Orchard grass\nPart of the Poaceae (grass) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  },
+  {
+    "name": "Phalaris arundinacea",
+    "info": "Reed canary grass\nPart of the Poaceae (grass) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
+  }
+]
