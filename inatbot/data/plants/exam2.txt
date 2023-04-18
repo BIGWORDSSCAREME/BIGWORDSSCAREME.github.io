@@ -8,7 +8,7 @@
     "info": "Paper birch\nPart of the Betulaceae (birch) family. Has white, peeling bark."
   },
   {
-    "name": "Ostraya virginiana",
+    "name": "Ostrya virginiana",
     "info": "Eastern hophornbeam\nPart of the Betulaceae (birch) family. The inflorescence on this species looks like the inflorsence of hops (humulus)."
   },
   {
@@ -28,7 +28,7 @@
     "info": "Evening primrose\nPart of the Onagraceae (evening primrose) family. This family often has 4 merous flowers, is epigynous, and has a well-developed hypanthium."
   },
   {
-    "name": "Epilobium stricta",
+    "name": "Epilobium strictum",
     "info": "Willowherb\nPart of the Onagraceae (evening primrose) family."
   },
   {
@@ -84,7 +84,7 @@
     "info": "Basswood\nPart of the Malvaceae (mallow) family. A mesic forest tree species. Has cordate leaves with palmate veination."
   },
   {
-    "name": "Vaccinium augustifolium",
+    "name": "Vaccinium angustifolium",
     "info": "Lowbush blueberry\nPart of the Ericaceae (blueberry) family. Has a berry fruit and inferrior ovary."
   },
   {
@@ -100,7 +100,7 @@
     "info": "Round-leaved shinleaf\nPart of the Ericaceae (blueberry) family."
   },
   {
-    "name": "Primula meadii",
+    "name": "Primula meadia",
     "info": "Shooting star\nPart of the Primulaceae (primrose) family."
   },
   {
@@ -124,7 +124,7 @@
     "info": "Gray dogwood\nPart of the Cornaceae (dogwood) family. Has opposite leaves and arcuate veination. Shrubs or subshrubs. The fruit is a 1-seeded drupe."
   },
   {
-    "name": "Gentian andrewsii",
+    "name": "Gentiana andrewsii",
     "info": "Bottle gentian\nPart of the Gentiaceae (gentian) family. Opposite leaves."
   },
   {
@@ -144,12 +144,12 @@
     "info": "Horse-nettle\nPart of the Solanaceae (nightshade) family. This family makes a lot of nasty compounds, drugs, and food like tomatoes and potatoes."
   },
   {
-    "name": "Convulvulus arvensis",
+    "name": "Convolvulus arvensis",
     "info": "Field bindweed\nPart of the Convolvulaceae (morning-glory) family. Flowers in this family are often funnels."
   },
   {
-    "name": "Cuscusta gronovii",
-    "info": "Common dotter\nPart of the Convulvulaceae (morning-glory) family. This genus twines around other plants and is parasitic."
+    "name": "Cuscuta gronovii",
+    "info": "Common dotter\nPart of the Convolvulaceae (morning-glory) family. This genus twines around other plants and is parasitic."
   },
   {
     "name": "Hydrophyllum virginianum",
@@ -176,7 +176,7 @@
     "info": "Bee-balm\nPart of the Lamiaceae (mint) family. This family has square stems and opposite leaves. The flowers are in verticels (clustered at the nodes)."
   },
   {
-    "name": "Prunella vulgeris",
+    "name": "Prunella vulgaris",
     "info": "Self-heal\nPart of the Lamiaceae (mint) family. This family has square stems and opposite leaves. The flowers are in verticels (clustered at the nodes)."
   },
   {
@@ -200,7 +200,7 @@
     "info": "Cancer-root\nPart of the Orobanchaceae (broomrape) family. This plant is a holo-parasite meaning it gets its energy from things other than light and does not photosynthesize. It is usually attached to oaks."
   },
   {
-    "name": "Urticularia resupinata",
+    "name": "Utricularia resupinata",
     "info": "Northeastern bladderwort\nPart of the Lentibulariaceae (bladderwort) family. This family is insectivorous and rootless and lives in wetlands."
   },
   {
@@ -276,7 +276,7 @@
     "info": "Pussy toes\nPart of the Asteraceae (aster) family, and the Gnaphalieae tribe. This tribe is usually covered with white hairs."
   },
   {
-    "name": "Helainthus",
+    "name": "Helianthus",
     "info": "Sunflower\nPart of the Asteraceae (aster) family, and the Heliantheae tribe. This tribe has radiate (or sometimes discoid) heads. The rays are often yellow, and the leaves are often opposite."
   },
   {
@@ -300,7 +300,7 @@
     "info": "White trout lily\nPart of the Lilliaceae (lily) family, and a monocot. Monocots can be distinguished from dicots by their 3-merous flowers and parralel-veined leaves."
   },
   {
-    "name": "Trilium grandiflorum",
+    "name": "Trillium grandiflorum",
     "info": "Large-flowered trilium\nPart of the Melanthiaceae (trillium) family, and a monocot. Monocots can be distinguished by their 3-merous flowers and parralel-veined leaves."
   },
   {
